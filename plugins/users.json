@@ -1,0 +1,39 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Robert",
+        "email": "rob23@gmail.com",
+        "address": "New york",
+        "phone": "8866552200"
+      },
+      {
+        "id": 2,
+        "name": "Lucy",
+        "email": "Lucy09@gmail.com",
+        "address": "California",
+        "phone": "9876540032"
+      },
+      {
+        "id": 3,
+        "name": "Anna",
+        "email": "Anna123@gmail.com",
+        "address": "Chennai",
+        "phone": "675312490"
+      },
+      {
+        "id": 4,
+        "name": "Robert",
+        "email": "Robert43@yahoo.com",
+        "address": "Guindy",
+        "phone": "243516799"
+      },
+      {
+        "id": 5,
+        "name": "Roger",
+        "email": "rogerbacon12@yahoo.com",
+        "address": "Ecr",
+        "phone": "7865439000"
+      }
+    ]
+  }
